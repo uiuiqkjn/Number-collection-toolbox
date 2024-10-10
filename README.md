@@ -1,2 +1,2 @@
-## 一些常用的数据集划分脚本
+Some commonly used data set partitioning scripts
 
